@@ -1,11 +1,5 @@
 #Nome: Gabriel Felipe Montoni dos Santos
-#RM : 552271
-#Nome: Gabriel Soares Da Cruz
-#RM: 97902
-#Nome: Giovanni Bruno Silva Ferreira
-#RM: 98084
-#Nome: Pedro Henrique Santos Lombardi
-#RM: 99598
+
 
 tempoFumante = float(input("Tempo como fumante (em anos).....: "))
 valorCig = float(input("Valor do maço....................: "))
